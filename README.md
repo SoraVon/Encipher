@@ -6,5 +6,5 @@ Decrypt Source will be uploaded Soon.
 <img src='ScreenShot.png' />
 <br />
 ## How to Use :
-+ python3 encipher.py
-+ Input Message And Key . 
+` python3 encipher.py`
+` Input Message And Key `. 
